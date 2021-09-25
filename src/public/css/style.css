@@ -1,0 +1,12 @@
+#room {
+    border:1px solid black;
+    width:800px;
+    height: 800px;
+}
+
+#chat {
+    overflow-y: auto;
+    width:95%;
+    height: 30%;
+    border:1px solid black;
+}
